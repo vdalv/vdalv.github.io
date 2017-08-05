@@ -1,0 +1,10 @@
+title: Vlad's Blog
+twitter_username: vdalvv
+github_username:  vdalv
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+exclude:
+- README.md
